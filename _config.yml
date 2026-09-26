@@ -22,6 +22,8 @@ url: "https://zweisocken.github.io/" # the base hostname & protocol for your sit
 icon: /assets/images/icon-512.png
 # twitter_username: zweisocken
 github_username:  zweisocken
+hide_search: true
+google_analytics: false
   
 # Build settings
 markdown: kramdown
