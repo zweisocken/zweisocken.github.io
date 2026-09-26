@@ -17,15 +17,15 @@ Naturfotos vom Sommertreff 2026. Schmetterling und Mini-Froschli.
     <figcaption>Sommer 2026</figcaption>
   </figure>
   <figure>
-    <img src="/assets/images/Aug-2026-Sommertreff/frosch0.jpg" alt="Froschli" loading="lazy">
+    <img src="/assets/images/Aug-2026-Sommertreff/froschi0.jpg" alt="Froschli" loading="lazy">
     <figcaption>Ein winziger Frosch im Bergpark 2026</figcaption>
   </figure>
   <figure>
-    <img src="/assets/images/Aug-2026-Sommertreff/frosch1.jpg" alt="Froschli" loading="lazy">
+    <img src="/assets/images/Aug-2026-Sommertreff/froschi1.jpg" alt="Froschli" loading="lazy">
     <figcaption>Wirklich winzig</figcaption>
   </figure>
   <figure>
-    <img src="/assets/images/Aug-2026-Sommertreff/frosch2.jpg" alt="Froschli" loading="lazy">
+    <img src="/assets/images/Aug-2026-Sommertreff/froschi2.jpg" alt="Froschli" loading="lazy">
     <figcaption>Frosch im Gras (es war ein trockener Sommer)</figcaption>
   </figure>
 </div>

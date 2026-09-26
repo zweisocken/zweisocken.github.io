@@ -13,7 +13,7 @@ Fotos vom Sommertreff im August 2025.
     <figcaption>Edertalsperre</figcaption>
   </figure>
   <figure>
-    <img src="/assets/images/2025-Aug-Sommertreff/DSC02358_01.jpg" alt="Edersee" loading="lazy">
+    <img src="/assets/images/2025-Aug-Sommertreff/DSC02472_02.jpg" alt="Edersee" loading="lazy">
     <figcaption>Edersee</figcaption>
   </figure>
   <figure>
@@ -21,7 +21,7 @@ Fotos vom Sommertreff im August 2025.
     <figcaption>Blumis</figcaption>
   </figure>
   <figure>
-    <img src="/assets/images/2025-Aug-Sommertreff/DSC02472_02.jpg" alt="Edersee" loading="lazy">
+    <img src="/assets/images/2025-Aug-Sommertreff/DSC02358_01.jpg" alt="Edersee" loading="lazy">
     <figcaption>Blumis</figcaption>
   </figure>
 </div>
