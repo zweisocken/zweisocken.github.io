@@ -14,7 +14,7 @@ Naturfotos vom Sommertreff 2026. Schmetterling und Mini-Froschli.
   </figure>
   <figure>
     <img src="/assets/images/Aug-2026-Sommertreff/schmetterling2.jpg" alt="Schmetterling" loading="lazy">
-    <figcaption>Sommer 2026</figcaption>
+    <figcaption>Auch ein Schmetterling</figcaption>
   </figure>
   <figure>
     <img src="/assets/images/Aug-2026-Sommertreff/froschi0.jpg" alt="Froschli" loading="lazy">
