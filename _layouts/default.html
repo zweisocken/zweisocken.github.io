@@ -19,7 +19,7 @@
     {%- endif -%}
 
   </head>
-  <body>
+  <body{% if page.gallery %} class="gallery-page"{% endif %}>
 
     {% if page.layout == 'home' %}
       <a href="#main" class="skip-navigation">
