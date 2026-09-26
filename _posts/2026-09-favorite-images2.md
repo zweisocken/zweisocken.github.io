@@ -16,7 +16,7 @@ Schmetterlingsbilder vom Sommertreff.
     <img src="/assets/images/Aug-2026-Sommertreff/schmetterling2.jpg" alt="Schmetterling" loading="lazy">
     <figcaption>Sommer 2026</figcaption>
   </figure>
-  <figure>
+    <figure>
     <img src="/assets/images/Aug-2026-Sommertreff/schmetterling2.jpg" alt="Schmetterling" loading="lazy">
     <figcaption>Sommer 2026</figcaption>
   </figure>
